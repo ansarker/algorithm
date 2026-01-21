@@ -26,3 +26,13 @@ Use CLI for automation: `python main.py --image my_pic.jpg --width 40 --height 4
 ```bash
 python main.py --image small.png --algos quick merge heap bubble insertion selection
 ```
+
+
+### Demo Video
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/YxMAuAphqqw)](https://youtu.be/YxMAuAphqqw)
+
+
+<video width="320" height="240" controls>
+    <source src="https://youtu.be/YxMAuAphqqw" type="video/mp4"/>
+</video>
